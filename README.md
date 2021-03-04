@@ -29,11 +29,11 @@ While the package manager supports adding packages through a GitHub url, it is n
 
 The package manager ui then needs to be augmented to show and install updates by installing [UpmGitExtension](https://openupm.com/packages/com.coffee.upm-git-extension/).
 
-Alternatively, open the package manager and choose Add package from git URL:
+Alternatively, open the package manager and choose Add package from git URL.
 
 ![](https://github.com/bassmit/images/blob/master/DotsNav/image16.png?raw=true)
 
-And enter the url:
+And enter the url.
 
     https://github.com/dotsnav/dotsnav.git
 
